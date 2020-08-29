@@ -1,0 +1,8 @@
+INTSTYLE=impact
+INFILE=E:\table_tennis\impact.xsl
+OUTFILE=E:\table_tennis\impact.xsl
+FAMILY=Single
+PART=Single
+WORKINGDIR=E:\table_tennis
+LICENSE=iMPACT
+USER_INFO=iMPACT

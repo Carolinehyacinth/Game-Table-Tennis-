@@ -1,0 +1,4 @@
+verilog work "main_control_2.v"
+verilog work "led_display.v"
+verilog work "keys.v"
+verilog work "main.v"
